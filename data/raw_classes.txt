@@ -1,0 +1,14 @@
+CECS 174 - Introduction to Programming and Problem Solving
+Units: 3
+Description: Introduction to programming using a high-level programming language. Covers problem solving, variables, input and output, selection, repetition, functions, and basic data structures.
+Prerequisites: None.
+
+CECS 274 - Data Structures
+Units: 3
+Description: Study of data structures and their applications. Topics may include lists, stacks, queues, trees, recursion, sorting, searching, and algorithm analysis.
+Prerequisites: CECS 174 or equivalent programming experience.
+
+CECS 228 - Discrete Structures with Computing Applications
+Units: 3
+Description: Introduction to discrete mathematics for computer science. Topics may include logic, sets, functions, relations, counting, proof techniques, graphs, and trees.
+Prerequisites: CECS 174.
